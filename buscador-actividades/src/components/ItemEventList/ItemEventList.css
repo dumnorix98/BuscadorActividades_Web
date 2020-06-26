@@ -1,0 +1,80 @@
+.imatgeCarta {
+  width: 50px;
+}
+
+
+.ColumnaCarta {
+  padding-top: 17px;
+  display: inline-block;
+}
+
+div.Carta {
+  border: 1px solid white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.negreta {
+  font-weight: bold;
+}
+
+.precio {
+  margin-left: 90px;
+  color: rgb(59, 58, 58);
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.tamany-icona {
+  font-size: 13px;
+}
+
+.Carta:hover {
+  transform: scale(1.03);
+  /* background-color: #E8F7FF; */
+  background-color: #F1E3F3;
+  box-shadow: 5px 8px 8px #888888;
+}
+
+
+
+.product_liked,
+.product_like {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  font-size: 30px;
+}
+
+.icon {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 30px;
+  align-items: center;
+  stroke-width: 20;
+  cursor: pointer;
+}
+
+.iconoUsers {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  align-items: center;
+}
+
+.icon:hover {
+  color: black;
+}
+.product_liked {
+  color: red;
+}
+
+.card-img-top {
+  border-radius: calc(0.25rem - 1px);
+}

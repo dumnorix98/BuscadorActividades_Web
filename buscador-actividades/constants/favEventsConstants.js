@@ -1,0 +1,4 @@
+export const favEventsConstants = {
+  GET_USER_FAV_EVENTS: "GET_USER_FAV_EVENTS",
+  DELETE_USER_FAV_EVENT: "DELETE_USER_FAV_EVENT"
+};

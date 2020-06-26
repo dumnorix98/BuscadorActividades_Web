@@ -1,0 +1,38 @@
+.Event_Image {
+    display: block;
+    width: 600px;
+    height: 337.5px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.Event_Title {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+}
+
+.Event_Description {
+    font-size: 20px;
+    text-align: left;
+}
+.Event_MoveFromEvents,
+.Event_SocialNetwork {
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 15px;
+    text-align: center;
+}
+.Event_SocialNetwork_ShareButton {
+    cursor: pointer;
+}
+.Event_SocialNetwork_ShareButton:hover:not(:active) {
+    opacity: 0.75;
+}
+
+.BotoTorna { 
+    color:"secondary";
+}
+.RowBotons {
+    padding: 20px;
+}

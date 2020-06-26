@@ -1,0 +1,15 @@
+.Invisible {
+    visibility: hidden;
+}
+.Visible {
+    visibility: visible;
+}
+
+/* Estas linesas de codigo hacen invible el contorno del button */
+
+.clickableText {
+    color: blue;
+}
+.clickableText:hover {
+    text-decoration: underline;
+}

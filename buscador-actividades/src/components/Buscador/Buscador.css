@@ -1,0 +1,28 @@
+.Buscador {
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 15px;
+    text-align: center;
+  }
+  
+div .lupa {
+  color: #2C363F;
+  background-color: #CCDBDC;
+  border-color: #CCDBDC;
+  
+}
+div .lupa:hover {
+  color: #CCDBDC;
+  background-color: #2C363F;
+  border-color: #2C363F;
+  
+}
+
+.TextoBuscador {
+  text-align: left;
+}
+  
+.Buscador:hover:not(:active) {
+  opacity: 0.75;
+  
+}

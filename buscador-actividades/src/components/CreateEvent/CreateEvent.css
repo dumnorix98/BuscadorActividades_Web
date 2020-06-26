@@ -1,0 +1,15 @@
+.container {
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.formulario {
+  width: 500px;
+}
+
+.BotonAccion {
+  vertical-align: top;
+  text-align: center;
+}

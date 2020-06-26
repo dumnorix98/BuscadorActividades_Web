@@ -1,0 +1,61 @@
+/* .Gato {
+  height: 100px;
+  width: 100px;
+  margin-right: 70px;
+} */
+
+.Filtro_Grupo {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  padding: 13;
+  margin-left: 14;
+}
+
+.Filtro_Item {
+  padding-left: 15px;
+}
+
+.loader {
+  align-items: center;
+  margin-left: 50%;
+}
+
+.margen-nav {
+  /* margin-bottom: 50px; */
+}
+
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.titols {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 20px;
+}
+
+.subtitols {
+  font-size: 28px;
+  /* font-weight: bold; */
+  position:absolute;
+  bottom:5px;
+  left:10px;
+  padding-left:35px;
+  margin: 0;
+}
+
+div.card-body {
+  padding: 0px;
+
+}
+
+.noResultats {
+  display:inline-block;
+  font-size: 30px;
+  padding: 20px;
+}
